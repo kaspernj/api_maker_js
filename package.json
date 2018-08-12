@@ -1,0 +1,27 @@
+{
+  "name": "rails-api-maker",
+  "version": "1.0.0",
+  "description": "Tools to work with the Rails API maker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaspernj/api_maker_js.git"
+  },
+  "author": "Kasper Johansen <kaspernj@gmail.com> (https://github.com/kaspernj)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaspernj/api_maker_js/issues"
+  },
+  "homepage": "https://github.com/kaspernj/api_maker_js#readme",
+  "peerDependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "dependencies": {
+    "js-money": "^0.6.3",
+    "qs": "^6.5.2"
+  }
+}
